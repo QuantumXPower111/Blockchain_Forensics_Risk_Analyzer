@@ -1,0 +1,15 @@
+<DOCUMENT filename="requirements.txt">
+# Title: Dependencies for Venice Token Gating API Project
+Short Description: This file lists the Python packages required to set up and run the Token Gating API, including core libraries for FastAPI, database interactions, blockchain services, and testing. 
+Install with pip install -r requirements.txt after activating your virtual environment.
+</DOCUMENT>
+
+streamlit==1.42.0
+web3==7.14.0
+requests==2.32.3
+networkx==3.4.2
+pyvis==0.3.2
+pycoingecko==3.2.0
+python-dotenv==1.0.1
+pandas==2.2.3
+numpy==1.26.4
